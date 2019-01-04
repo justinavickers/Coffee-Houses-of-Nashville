@@ -1,0 +1,15 @@
+.pageHeader {
+  display: flex;
+  justify-content: center;
+}
+
+section {
+  flex-basis: 33%;
+}
+
+article.list {
+  align-content: center;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
